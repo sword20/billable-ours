@@ -20,4 +20,3 @@ class HoursForm extends WebTestCase {
 	
 
 }
-© 2020 GitHub, Inc.
